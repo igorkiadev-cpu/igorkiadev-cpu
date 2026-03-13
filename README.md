@@ -32,6 +32,16 @@ Offshore Operations Automation
 
 ---
 
+## Featured Projects
+
+ROV Mission Data Analyzer
+Python tool for analyzing subsea ROV mission logs and extracting operational insights.
+
+Subsea Inspection Report Generator
+Python tool for generating automated reports from subsea inspection logs.
+
+---
+
 ## Contact
 
 GitHub:  
