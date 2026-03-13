@@ -18,9 +18,12 @@ Web Scraping
 
 ## Featured Project
 
-### ROV Mission Data Analyzer
 
+ROV Mission Data Analyzer  
 Python tool for analyzing subsea ROV mission logs and generating operational insights from inspection activities and depth profiles.
+
+Subsea Inspection Report Generator  
+Python tool for generating automated reports from subsea inspection logs.
 
 ---
 
@@ -29,16 +32,6 @@ Python tool for analyzing subsea ROV mission logs and generating operational ins
 ROV Data Analytics  
 Subsea Data Engineering  
 Offshore Operations Automation  
-
----
-
-## Featured Projects
-
-ROV Mission Data Analyzer
-Python tool for analyzing subsea ROV mission logs and extracting operational insights.
-
-Subsea Inspection Report Generator
-Python tool for generating automated reports from subsea inspection logs.
 
 ---
 
