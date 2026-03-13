@@ -39,3 +39,6 @@ Offshore Operations Automation
 
 GitHub:  
 https://github.com/igorkiadev-cpu
+
+LinkedIn:
+https://www.linkedin.com/in/igor-carvalho-a5abb3254
