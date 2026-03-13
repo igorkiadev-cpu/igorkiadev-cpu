@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Igor 👋
 
-<!--
-**igorkiadev-cpu/igorkiadev-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer focused on Offshore and Subsea Data Analysis.
 
-Here are some ideas to get you started:
+Former offshore professional with experience in subsea operations, including ROV and commercial diving. Now building software tools for data analysis, automation, and operational insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+Python  
+Pandas  
+Data Analysis  
+Automation  
+Web Scraping  
+
+---
+
+## Featured Project
+
+### ROV Mission Data Analyzer
+
+Python tool for analyzing subsea ROV mission logs and generating operational insights from inspection activities and depth profiles.
+
+---
+
+## Current Focus
+
+ROV Data Analytics  
+Subsea Data Engineering  
+Offshore Operations Automation  
+
+---
+
+## Contact
+
+GitHub:  
+https://github.com/igorkiadev-cpu
