@@ -1,44 +1,36 @@
-# Hi, I'm Igor 👋
+# Igor Carvalho
 
-Python Developer focused on Offshore and Subsea Data Analysis.
+Subsea Operations | ROV Systems | Python Data Analysis
 
-Former offshore professional with experience in subsea operations, including ROV and commercial diving. Now building software tools for data analysis, automation, and operational insights.
+Former offshore professional with experience in subsea operations including ROV systems and commercial diving. Currently focused on developing Python tools for subsea mission data analysis, automation, and operational insights.
 
----
+## Subsea Data Projects
+
+- ROV Mission Data Analyzer
+- ROV Telemetry Dashboard
+- ROV 3D Mission Visualizer
+- ROV Mission Depth Visualizer
+- Subsea Inspection Report Generator
+- ROV Mission Coverage Analyzer
+
+These projects explore how operational data from ROV missions can be analyzed and visualized to support subsea engineering and inspection workflows.
 
 ## Tech Stack
 
 Python  
 Pandas  
+Plotly  
+Streamlit  
 Data Analysis  
-Automation  
-Web Scraping  
-
----
-
-## Featured Project
-
-
-ROV Mission Data Analyzer  
-Python tool for analyzing subsea ROV mission logs and generating operational insights from inspection activities and depth profiles.
-
-Subsea Inspection Report Generator  
-Python tool for generating automated reports from subsea inspection logs.
-
----
+Automation
 
 ## Current Focus
 
 ROV Data Analytics  
 Subsea Data Engineering  
-Offshore Operations Automation  
-
----
+Offshore Operations Automation
 
 ## Contact
 
-GitHub:  
-https://github.com/igorkiadev-cpu
-
-LinkedIn:
+LinkedIn:  
 https://www.linkedin.com/in/igor-carvalho-a5abb3254
