@@ -1,6 +1,11 @@
 # Igor Carvalho
 
-Subsea Operations | ROV Systems | Python Data Analysis
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+
+Subsea Operations • ROV Systems • Python Data Analysis
 
 Former offshore professional turning subsea operational data into engineering insights using Python.
 
@@ -34,7 +39,21 @@ Offshore Operations Automation
 
 17+ years of offshore experience in subsea operations including ROV support and commercial diving. Currently transitioning into software engineering focused on subsea data analysis and offshore operations automation.
 
+## What I'm Building
+
+Currently developing tools for analyzing subsea operational data, including:
+
+- ROV mission telemetry analysis
+- Subsea inspection data automation
+- Offshore operations dashboards
+  
 ## Contact
 
 LinkedIn:  
 https://www.linkedin.com/in/igor-carvalho-a5abb3254
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorkiadev-cpu&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorkiadev-cpu&layout=compact)
