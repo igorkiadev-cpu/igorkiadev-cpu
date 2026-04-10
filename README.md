@@ -75,6 +75,8 @@ https://www.linkedin.com/in/igor-carvalho-a5abb3254
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorkiadev-cpu&show_icons=true&theme=default&cache_seconds=86400)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorkiadev-cpu&layout=compact&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=igorkiadev-cpu&show_icons=true&theme=transparent)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorkiadev-cpu&layout=compact&theme=transparent)
