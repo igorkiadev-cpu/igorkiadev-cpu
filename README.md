@@ -5,54 +5,75 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 
-Subsea Operations • ROV Systems • Python Data Analysis
+Subsea Operations • ROV Systems • Geospatial Data • Python
 
-Former offshore professional turning subsea operational data into engineering insights using Python.
+Transforming subsea operational data into actionable engineering intelligence.
 
-## Subsea Data Projects
+---
 
-- [ROV Mission Data Analyzer](https://github.com/igorkiadev-cpu/rov-mission-data-analyzer)
-- [ROV Telemetry Dashboard](https://github.com/igorkiadev-cpu/rov-telemetry-dashboard)
-- [ROV 3D Mission Visualizer](https://github.com/igorkiadev-cpu/rov-3d-mission-visualizer)
-- [ROV Mission Depth Visualizer](https://github.com/igorkiadev-cpu/rov-mission-depth-visualizer)
-- [Subsea Inspection Report Generator](https://github.com/igorkiadev-cpu/subsea-inspection-report-generator)
-- [ROV Mission Coverage Analyzer](https://github.com/igorkiadev-cpu/rov-mission-coverage-analyzer)
+## 🚀 Featured Project
 
-These projects explore how operational data from ROV missions can be analyzed and visualized to support subsea engineering and inspection workflows.
+### Geospatial Intelligence Platform (GIP)
 
-## Tech Stack
+A geospatial analytics platform for ROV mission data, enabling:
 
-Python  
-Pandas  
-Plotly  
-Streamlit  
-Data Analysis  
-Automation  
+- Trajectory analysis  
+- Depth anomaly detection  
+- Subsea visualization (2D/3D)  
+- Critical zone identification  
 
-## Current Focus
+🔗 Live App:  
+https://rov-geospatial-intelligence-platform.streamlit.app/
 
-ROV Data Analytics  
-Subsea Data Engineering  
-Offshore Operations Automation  
+🔗 Repository:  
+https://github.com/igorkiadev-cpu/rov-geospatial-intelligence-platform
 
-## Background
+---
 
-17+ years of offshore experience in subsea operations including ROV support and commercial diving. Currently transitioning into software engineering focused on subsea data analysis and offshore operations automation.
+## 🧠 Subsea Data Projects
 
-## What I'm Building
+- ROV Mission Data Analyzer  
+- ROV Telemetry Dashboard  
+- ROV 3D Mission Visualizer  
+- ROV Mission Depth Visualizer  
+- Subsea Inspection Report Generator  
+- ROV Mission Coverage Analyzer  
 
-Currently developing tools for analyzing subsea operational data, including:
+These projects simulate real offshore workflows and demonstrate how ROV data can support engineering decisions and reduce operational risk.
 
-- ROV mission telemetry analysis
-- Subsea inspection data automation
-- Offshore operations dashboards
-  
-## Contact
+---
+
+## 🛠 Tech Stack
+
+Python • Pandas • Plotly • Streamlit  
+Data Analysis • Geospatial Analytics • Automation  
+
+---
+
+## 🎯 Current Focus
+
+- ROV Data Analytics  
+- Subsea Data Engineering  
+- Offshore Operations Automation  
+
+---
+
+## 🌊 Background
+
+17+ years of offshore experience in subsea operations, including ROV support and commercial diving.
+
+Bringing field experience into software and data solutions for offshore engineering.
+
+---
+
+## 📬 Contact
 
 LinkedIn:  
 https://www.linkedin.com/in/igor-carvalho-a5abb3254
 
-## GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorkiadev-cpu&show_icons=true&theme=default)
 
