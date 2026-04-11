@@ -72,11 +72,9 @@ LinkedIn:
 https://www.linkedin.com/in/igor-carvalho-a5abb3254
 
 ---
+## 🚀 Featured Work
 
-## 📊 GitHub Stats
+Geospatial Intelligence Platform (GIP)  
+ROV data → engineering insights → decision support
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=igorkiadev-cpu&show_icons=true&theme=transparent)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorkiadev-cpu&layout=compact&theme=transparent)
+🔗 https://rov-geospatial-intelligence-platform.streamlit.app/)
