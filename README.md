@@ -7,14 +7,13 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 
-Transforming subsea operational data into actionable engineering intelligence.
+Turning ROV data into engineering intelligence for offshore operations.
 
 ---
 
 ## 🌊 What I Do
 
-I build geospatial data platforms for subsea operations, transforming ROV telemetry into actionable insights that support offshore engineering decisions, improve safety, and enhance operational efficiency.
-
+I design and build geospatial data platforms for subsea operations, transforming ROV telemetry into actionable insights for engineering decision-making, safety, and operational efficiency.
 ---
 
 ## 🚀 Featured Project
@@ -39,10 +38,6 @@ A geospatial analytics platform for ROV mission data, enabling:
 ### 🔹 Anomaly Detection & Route Intelligence
 ![Anomaly Detection](https://raw.githubusercontent.com/igorkiadev-cpu/rov-geospatial-intelligence-platform/main/gip-anomaly-detection.gif.gif)
 
----
-
-### 🔹 Critical Zones & Risk Heatmap
-![Critical Zones](https://raw.githubusercontent.com/igorkiadev-cpu/rov-geospatial-intelligence-platform/main/critical-zones.gif.gif)
 ---
 
 ## 🧠 Subsea Data Projects
