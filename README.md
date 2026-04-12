@@ -1,13 +1,19 @@
 # Igor Carvalho
 
+## Subsea Data Engineer | ROV & Geospatial Intelligence | Offshore Operations
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 
-Subsea Operations • ROV Systems • Geospatial Data • Python
-
 Transforming subsea operational data into actionable engineering intelligence.
+
+---
+
+## 🌊 What I Do
+
+I build geospatial data platforms for subsea operations, transforming ROV telemetry into actionable insights that support offshore engineering decisions, improve safety, and enhance operational efficiency.
 
 ---
 
@@ -21,40 +27,53 @@ A geospatial analytics platform for ROV mission data, enabling:
 - Depth anomaly detection  
 - Subsea visualization (2D/3D)  
 - Critical zone identification  
+- Data-driven decision support  
 
-🔗 Live App:  
+## 📸 Demo
+
+![Data to Insight](https://raw.githubusercontent.com/igorkiadev-cpu/rov-geospatial-intelligence-platform/main/data-to-insight.gif)
+
+---
+
+## 🔗 Live Application
+
 https://rov-geospatial-intelligence-platform.streamlit.app/
 
-🔗 Repository:  
+---
+
+## 📂 Repository
+
 https://github.com/igorkiadev-cpu/rov-geospatial-intelligence-platform
 
 ---
 
 ## 🧠 Subsea Data Projects
 
+- ROV Telemetry Analytics Platform  
 - ROV Mission Data Analyzer  
-- ROV Telemetry Dashboard  
 - ROV 3D Mission Visualizer  
-- ROV Mission Depth Visualizer  
 - Subsea Inspection Report Generator  
 - ROV Mission Coverage Analyzer  
 
-These projects simulate real offshore workflows and demonstrate how ROV data can support engineering decisions and reduce operational risk.
+These projects simulate real offshore workflows and demonstrate how subsea data can be transformed into engineering intelligence to reduce operational risk and improve mission performance.
+
+---
+
+## 🏗️ Core Capabilities
+
+- Geospatial Data Analysis  
+- ROV Mission Intelligence  
+- Anomaly Detection  
+- Data Visualization (2D & 3D)  
+- Offshore Data Workflows  
+- Operational Decision Support  
 
 ---
 
 ## 🛠 Tech Stack
 
 Python • Pandas • Plotly • Streamlit  
-Data Analysis • Geospatial Analytics • Automation  
-
----
-
-## 🎯 Current Focus
-
-- ROV Data Analytics  
-- Subsea Data Engineering  
-- Offshore Operations Automation  
+Geospatial Analytics • Data Engineering • Automation  
 
 ---
 
@@ -62,19 +81,11 @@ Data Analysis • Geospatial Analytics • Automation
 
 17+ years of offshore experience in subsea operations, including ROV support and commercial diving.
 
-Bringing field experience into software and data solutions for offshore engineering.
+Bringing real-world field experience into data-driven solutions for offshore engineering and subsea operations.
 
 ---
 
 ## 📬 Contact
 
 LinkedIn:  
-https://www.linkedin.com/in/igor-carvalho-a5abb3254
-
----
-## 🚀 Featured Work
-
-Geospatial Intelligence Platform (GIP)  
-ROV data → engineering insights → decision support
-
-🔗 https://rov-geospatial-intelligence-platform.streamlit.app/)
+https://www.linkedin.com/in/igorkiadev-cpu
