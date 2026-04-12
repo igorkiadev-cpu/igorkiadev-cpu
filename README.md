@@ -31,7 +31,22 @@ A geospatial analytics platform for ROV mission data, enabling:
 
 ## 📸 Demo
 
-![Data to Insight](https://raw.githubusercontent.com/igorkiadev-cpu/rov-geospatial-intelligence-platform/main/data-to-insight.gif)
+### 🔹 Data → Insight
+
+![Data to Insight](./data-to-insight.gif.gif)
+
+---
+
+### 🔹 Anomaly Detection & Route Intelligence
+
+![Anomaly Detection](./gip-anomaly-detection.gif.gif)
+
+---
+
+### 🔹 Critical Zones & Risk Heatmap
+
+![Critical Zones](./critical-zones.gif.gif)
+
 
 ---
 
